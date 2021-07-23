@@ -1041,6 +1041,17 @@ footer .copy-right {
   }
 }
 
+@media (max-width: 480px) {
+
+  footer ul {
+    margin: 0 auto;
+  }
+  footer li {
+    margin-inline: 10px;
+    font-size: 0.7rem;
+  }
+}
+
 /*═══════════════════╗
 ║   Helper classes   ║
 ╚═══════════════════*/
